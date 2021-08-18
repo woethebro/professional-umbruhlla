@@ -13,7 +13,7 @@ module.exports = {
         // Send Message
         message.channel.send('AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.').then(sentMessage => {
             // Add Reaction
-            sentMessage.react('(❁´◡`❁)');
+            sentMessage.react('🥵🤬😡🤬😷🤬');
         });
     },
 };
