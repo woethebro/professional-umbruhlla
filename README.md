@@ -1,4 +1,5 @@
-![HighTechU Discord Bot](./docs/images/hightechu-discord-bot-banner.png)
+![HighTechU Discord Bot](https://user-images.githubusercontent.com/29679809/129946109-c9ce63cb-3e55-4c15-ba46-69108898741a.png)
+
 <!-- You will want to modify the image above to reflect your Discord Bot Branding. -->
 
 ## About
