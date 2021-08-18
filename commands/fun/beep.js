@@ -11,9 +11,9 @@ module.exports = {
     // Execute Command - Parameters: message
     execute(message) {
         // Send Message
-        message.channel.send('Boop.').then(sentMessage => {
+        message.channel.send('AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.').then(sentMessage => {
             // Add Reaction
-            sentMessage.react('👍');
+            sentMessage.react('🥵🤬😡🤬😷🤬');
         });
     },
 };

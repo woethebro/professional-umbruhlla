@@ -7,10 +7,10 @@ module.exports = {
     // Guild - TRUE
     guildOnly: true,
     // Cooldown
-    cooldown: 50,
+    cooldown: 1,
     // Execute Command - Parameters: message
     execute(message) {
         // Send Message
-        message.channel.send('Pong!');
+        message.channel.send('king kong!');
     },
 };
